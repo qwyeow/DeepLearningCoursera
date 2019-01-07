@@ -1,1 +1,1 @@
-RNN and LSTM models in python from Module 5 are re-written in R
+RNN and LSTM models in python from [Module 5](https://github.com/qwyeow/DeepLearningCoursera/blob/master/Module5/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v12%20Final%20Nicer%20format.pdf) are re-written in R
