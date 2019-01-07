@@ -1,1 +1,1 @@
-rewritten in R
+[Character level language model](https://github.com/qwyeow/DeepLearningCoursera/blob/master/Module5/Dinosaurus%20Island%20--%20Character%20level%20language%20model%20final%20-%20v3%20Final%20Correct.pdf) in python from Module 5 is rewritten in R 
