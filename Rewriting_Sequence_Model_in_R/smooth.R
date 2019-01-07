@@ -1,1 +1,0 @@
-smooth <- function(loss, cur_loss){loss * 0.999 + cur_loss * 0.001}
